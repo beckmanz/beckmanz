@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Mauricio, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e desenvolvimento back-end, com foco em C# e ASP.NET Core. Aqui no meu GitHub, você encontrará projetos que exploram minhas habilidades em criação de APIs RESTful, manipulação de bancos de dados SQL e NoSQL, além da integração com serviços externos. Sempre busco escrever código limpo, eficiente e seguro, visando soluções escaláveis e bem estruturadas.
+Me chamo Mauricio, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e desenvolvimento back-end, com foco em C# e ASP.NET Core. Aqui no meu GitHub, você encontrará projetos que exploram minhas habilidades em criação de APIs RESTful, manipulação de bancos de dados SQL e NoSQL, além da integração com serviços externos. Sempre busco escrever código limpo, eficiente e seguro, visando soluções escaláveis e bem estruturadas.
 
 <p align="left">
     <a href="https://www.instagram.com/klaus.zip/">
