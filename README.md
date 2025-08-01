@@ -34,7 +34,7 @@ Me chamo Mauricio, tenho 20 anos e sou estudante de Análise e Desenvolvimento d
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,react,git,github,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,dotnet,flask,react,git,github,docker,postman" />
   </a>
 </p>
 
