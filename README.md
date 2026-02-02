@@ -106,20 +106,3 @@ Me chamo Mauricio, tenho 20 anos e sou estudante de Análise e Desenvolvimento d
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    style="margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=beckmanz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Top Languages" 
-    height="180" 
-    width="380"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckmanz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
